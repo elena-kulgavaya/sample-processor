@@ -1,0 +1,7 @@
+*.pyc
+*~
+.venv/
+.idea
+.python-version
+.pytest_cache/
+.pytest_cache
